@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+textarea{
+    background-color: #1f1f1f;
+    color: lightblue;
+}
+button {
+    border: 1px outset #1f1f1f;
+    background-color: #1f1f1f;
+    color: lightblue;
+    height:50px;
+    width:100px;
+    cursor:pointer;
+ }
